@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.zakRepo" name="zakRepo official Repo" version="1.0.0" provider-name="Kabcasa">
+<addon id="repository.zakRepo" name="zakRepo official Repo" version="1.0.1" provider-name="Kabcasa">
 	<extension point="xbmc.addon.repository" name="ZakRepo official Repo">
 		<info compressed="false">https://raw.github.com/kabcasa/zakRepo/master/addons.xml</info>
 		<checksum>https://raw.github.com/kabcasa/zakRepo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.github.com/kabcasa/zakRepo/master</datadir>
+		<datadir zip="true">https://raw.github.com/kabcasa/zakRepo/tree/master/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>ZakRepo official Repo</summary>
