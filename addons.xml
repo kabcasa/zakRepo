@@ -24,7 +24,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.SportsDevil" version="2-1 (build 20161012)" name="SportsDevil"  provider-name="SportsDevil">
+<addon id="plugin.video.SportsDevil" version="2-2 (build 20161012)" name="SportsDevil"  provider-name="SportsDevil">
 
   <requires>
    <import addon="xbmc.python" version="2.14.0"/>
