@@ -54,7 +54,7 @@
 	<extension point="xbmc.addon.repository" name="ZakRepo official Repo">
 		<info compressed="false">https://raw.github.com/kabcasa/zakRepo/master/addons.xml</info>
 		<checksum>https://raw.github.com/kabcasa/zakRepo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://drive.google.com/drive/folders/0B_DslRc9zC5XS0tEM0lSdlFEQVk?usp=sharing</datadir>
+		<datadir zip="true">https://drive.google.com/uc?export=download&id=0B_DslRc9zC5XS0tEM0lSdlFEQVk</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>ZakRepo official Repo</summary>
