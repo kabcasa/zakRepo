@@ -50,11 +50,11 @@
   </extension>
 </addon>
 
-<addon id="repository.zakRepo" name="zakRepo official Repo" version="1.0.4" provider-name="Kabcasa">
+<addon id="repository.zakRepo" name="zakRepo official Repo" version="1.0.5" provider-name="Kabcasa">
 	<extension point="xbmc.addon.repository" name="ZakRepo official Repo">
 		<info compressed="false">https://raw.github.com/kabcasa/zakRepo/master/addons.xml</info>
 		<checksum>https://raw.github.com/kabcasa/zakRepo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://drive.google.com/uc?export=download&id=0B_DslRc9zC5XS0tEM0lSdlFEQVk</datadir>
+		<datadir zip="true">https://raw.github.com/kabcasa/zakRepo/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>ZakRepo official Repo</summary>
