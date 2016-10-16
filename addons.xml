@@ -24,7 +24,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.SportsDevil" version="2 (build 20161012)" name="SportsDevil"  provider-name="SportsDevil">
+<addon id="plugin.video.SportsDevil" version="2-1 (build 20161012)" name="SportsDevil"  provider-name="SportsDevil">
 
   <requires>
    <import addon="xbmc.python" version="2.14.0"/>
@@ -50,7 +50,7 @@
   </extension>
 </addon>
 
-<addon id="repository.zakRepo" name="zakRepo official Repo" version="1.0.2" provider-name="Kabcasa">
+<addon id="repository.zakRepo" name="zakRepo official Repo" version="1.0.3" provider-name="Kabcasa">
 	<extension point="xbmc.addon.repository" name="ZakRepo official Repo">
 		<info compressed="false">https://raw.github.com/kabcasa/zakRepo/master/addons.xml</info>
 		<checksum>https://raw.github.com/kabcasa/zakRepo/master/addons.xml.md5</checksum>
@@ -58,7 +58,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>ZakRepo official Repo</summary>
-   		<description lang="en">Instala los Addons de Zak.</description>
+   		<description lang="en">Installe les Addons de Zak.</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
