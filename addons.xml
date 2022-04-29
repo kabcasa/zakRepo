@@ -52,7 +52,7 @@
 
 <addon id="plugin.video.Legazy" name="LEGAZY systems" version="3.0.0" provider-name="">
   <requires>
-    <import addon="xbmc.python" version="3.0.0" />
+    <import addon="xbmc.python" version="3.1.0" />
 	<import addon="script.module.requests" />
 	<import addon="service.sleepy.watchdog" />
   </requires>
